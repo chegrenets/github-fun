@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 namespace GitTest
 {
@@ -6,6 +6,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("M0");
             Console.WriteLine("M1");
             Console.WriteLine("M2");
             Console.WriteLine("M3");
