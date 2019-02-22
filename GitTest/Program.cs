@@ -7,7 +7,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("M1");
-            Console.WriteLine("M1");
+            Console.WriteLine("M2");
         }
     }
 }
