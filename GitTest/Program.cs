@@ -22,6 +22,7 @@ namespace GitTest
             Console.WriteLine("feature1_2");
 
             Console.WriteLine("feature2_1");
+            Console.WriteLine("feature2_2");
         }
     }
 }
