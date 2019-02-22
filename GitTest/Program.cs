@@ -19,6 +19,7 @@ namespace GitTest
             Console.WriteLine("M10");
 
             Console.WriteLine("feature1_1");
+            Console.WriteLine("feature1_2");
         }
     }
 }
