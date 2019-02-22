@@ -9,6 +9,8 @@ namespace GitTest
             Console.WriteLine("M1");
             Console.WriteLine("M2");
             Console.WriteLine("M3");
+            Console.WriteLine("M4");
+            Console.WriteLine("M5");
         }
     }
 }
