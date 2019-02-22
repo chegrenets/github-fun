@@ -15,7 +15,7 @@ namespace GitTest
             Console.WriteLine("M6_bugfix1");
             Console.WriteLine("M7");
             Console.WriteLine("M8");
-            Console.WriteLine("M9");
+            Console.WriteLine("M9_bugfix2");
             Console.WriteLine("M10");
 
             Console.WriteLine("feature1_1");
