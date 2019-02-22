@@ -24,6 +24,8 @@ namespace GitTest
             Console.WriteLine("feature2_1_bugfix");
             Console.WriteLine("feature2_2");
 
+            Console.WriteLine("total_bugfix");
+
 
         }
     }
