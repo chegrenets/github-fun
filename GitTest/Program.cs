@@ -33,7 +33,7 @@ namespace GitTest
 
             Console.WriteLine("feature4_1");
 
-
+            Console.WriteLine("feature5_master");            
         }
     }
 }
