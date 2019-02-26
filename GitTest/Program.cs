@@ -53,8 +53,6 @@ namespace GitTest
             Concolse.WriteLine("master refgular dev");
             Concolse.WriteLine("master refgular dev 2");
 
-            Concolse.WriteLine("dummy commit");
-            
             Concolse.WriteLine("good commit");
 
 
