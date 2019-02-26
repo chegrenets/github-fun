@@ -44,6 +44,8 @@ namespace GitTest
 
             Console.WriteLine("branch_1");
             Console.WriteLine("branch_2");
+            Console.WriteLine("branch_3");
+
 
         }
     }
