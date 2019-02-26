@@ -39,6 +39,10 @@ namespace GitTest
             Console.WriteLine("feature6_local_v1");
             Console.WriteLine("feature6_local_v2");
 
+
+            Console.WriteLine("feature7_local_v1");
+            Console.WriteLine("feature7_local_v2");
+
         }
     }
 }
