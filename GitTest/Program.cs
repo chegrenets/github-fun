@@ -6,7 +6,6 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            // =============== BASE ===================
             Console.WriteLine("M0");
             Console.WriteLine("M1");
             Console.WriteLine("M2");
@@ -43,7 +42,6 @@ namespace GitTest
 
             Console.WriteLine("master_bugfix1");
 
-            // =============== BASE ==================
 
             Console.WriteLine("branch_1");
             Console.WriteLine("branch_2");
