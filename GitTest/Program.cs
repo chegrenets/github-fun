@@ -49,6 +49,8 @@ namespace GitTest
             Console.WriteLine("feature8_local_v2");
 
             Console.WriteLine("feature8_remote_v1");
+            Console.WriteLine("feature9_remote_v1");
+
 
             Console.WriteLine("feature9_local_v1");
 
