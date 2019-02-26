@@ -47,10 +47,11 @@ namespace GitTest
             Console.WriteLine("branch_2");
             Console.WriteLine("branch_3");
             Console.WriteLine("branch_4");
-            
-
-
             Concolse.WriteLine("master refgular dev");
+            Console.WriteLine("branch_5");
+            Console.WriteLine("branch_6");
+
+
         }
     }
 }
