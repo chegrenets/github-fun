@@ -40,7 +40,11 @@ namespace GitTest
             Console.WriteLine("feature8_remote_v1");
             Console.WriteLine("feature9_remote_v1");
             Console.WriteLine("feature9_local_v1");
+
+            Console.WriteLine("master_bugfix1");
+
             // =============== BASE ==================
+
 
         }
     }
