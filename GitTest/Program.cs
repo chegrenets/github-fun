@@ -42,9 +42,8 @@ namespace GitTest
             Console.WriteLine("feature9_local_v1");
             // =============== BASE ==================
 
-
-
             Console.WriteLine("branch_1");
+            Console.WriteLine("branch_2");
 
         }
     }
