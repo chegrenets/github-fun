@@ -52,6 +52,7 @@ namespace GitTest
             
 
 
+            Concolse.WriteLine("master refgular dev");
         }
     }
 }
