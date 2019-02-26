@@ -54,7 +54,6 @@ namespace GitTest
             
 
 
-            not forgot to switch
             Concolse.WriteLine("master refgular dev");
             Concolse.WriteLine("master refgular dev 2");
 
